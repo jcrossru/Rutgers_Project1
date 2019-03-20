@@ -31,3 +31,6 @@
 * Compile the data to be at the same level (county perhaps)
 * Merge the three datasets together
 * Graphing and mapping the dataset to answer our questions
+
+## Hypothesis
+* We expect there not to be a corrrelation between the restaurant ratings and the crime statistics because their are oftern good eateries in bad areas. We expect more expensive restaurants to get a higher rating but that income will not be correlated.
