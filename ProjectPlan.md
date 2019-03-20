@@ -19,9 +19,10 @@
 * How does it affect the crime rate?
 
 ## Data Sets to be Used
-* Restaurant rating data
+* Restaurant rating data (from csv by lat, long)
 * Crime data from United States crime rates by county
 * Income data from the census
+* govt api that converts lat and long to county
 
 ## Rough Breakdown of Tasks
 * Import and pull all data
