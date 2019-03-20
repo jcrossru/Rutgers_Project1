@@ -4,7 +4,7 @@
 * Crime and Dine
 
 ## Team Members
-* Rachel Berkowitz, Jeanette Cross, Michael Lygas, Xeniya Bogoslavsky
+* Rachel Berkowitz, Jeanette Cross, Michael Lygas, Xeniya Bogoslavskaya
 
 ## Project Description/Outline
 * Comparing the restaurant ratings to the US crime statistics and income.
